@@ -1,7 +1,13 @@
-* {color: blueviolet;
+/* styles.css */
 
-font-family: Georgia, 'Times New Roman', Times, serif;}
+h1  {font-size: x-large;}
 
-h1 * {color: blueviolet;
 
-    font-family: Georgia, 'Times New Roman', Times, serif;}
+
+/* ol {
+    color: blueviolet; font-family: Georgia
+} */
+
+h1,h2 { color: rgb(37, 168, 37);
+
+}
